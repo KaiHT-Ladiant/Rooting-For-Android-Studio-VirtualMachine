@@ -29,9 +29,9 @@ Execute in Command Prompt:
 
 Example workflow:
 ```powershell
-[] Are you AndroidStudio Installed? (Y/N): Y
+[+] Are you AndroidStudio Installed? (Y/N): Y
 [+] Version of AVD Emulator: 33
-[] Are you Running AVD Now? (Y/N): Y
+[+] Are you Running AVD Now? (Y/N): Y
 ```
 ### Step 3: Completion
 - Script clones `rootAVD`, patches AVD's ramdisk, and installs Magisk
